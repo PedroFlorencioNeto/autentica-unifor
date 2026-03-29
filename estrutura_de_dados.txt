@@ -1,0 +1,27 @@
+A disciplina de estruturas de dados é fundamental para qualquer área da
+computação, pois ensina como organizar informações de maneira eficiente
+na memória, permitindo que programas manipulem grandes volumes de dados
+com rapidez, algo essencial em sistemas modernos orientados por dados,
+desde aplicações científicas até plataformas de tecnologia, ao estudar
+vetores, listas encadeadas, pilhas e filas, o estudante aprende
+diferentes formas de estruturar problemas, escolhendo a representação
+mais adequada para cada situação, o que impacta diretamente no
+desempenho de algoritmos, estruturas como árvores e grafos ampliam essa
+capacidade, permitindo modelar relações complexas entre elementos, muito
+comuns em redes, mapas e sistemas sociais, além disso o estudo dessas
+estruturas desenvolve raciocínio lógico, habilidade central para
+engenharia de software e ciência de dados, pois obriga o estudante a
+pensar em eficiência e escalabilidade, também introduz conceitos
+importantes de complexidade computacional, ajudando a entender o custo
+de cada operação realizada, como busca, inserção e remoção de elementos,
+esse conhecimento evita soluções ingênuas ou pouco eficientes, que
+poderiam tornar sistemas inviáveis em larga escala, na prática
+estruturas de dados estão presentes em bancos de dados, mecanismos de
+busca e sistemas de recomendação, bem como em aplicações de inteligência
+artificial, engenharia elétrica e processamento de sinais, por isso
+dominar essa disciplina fortalece a base do programador, permitindo
+escrever códigos mais claros e organizados, além de facilitar a
+resolução de problemas complexos, que exigem planejamento cuidadoso da
+informação, tornando o profissional mais preparado para desafios
+tecnológicos, e consolidando um pensamento computacional sólido ao longo
+da carreira.
