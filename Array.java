@@ -1,22 +1,18 @@
-public class Array {
-    private String[] data;
-    private int length;
+public class Array{
+       private String[] elements;
 
-    public Array(int length){
-        data = new String[length];
-        length = 0;
-    }
+       // define the array's capacity
+       public Array(int capacity){
+           this.elements = new String[capacity];
+       }
 
-    public void add(String line){
-        data[length] = line;
-        length++;
-    }
-
-    public String get(int index){
-        return data[index];
-    }
-
-    public int length(){
-        return length;
-    }
+       // add elements in the
+        public void add(String element){
+           for (int i=0; i<this.elements.length; i++){
+               if (this.elements[i] == null){
+                   this.elements[i] = element;
+                   break;
+               }
+            }
+        }
 }
